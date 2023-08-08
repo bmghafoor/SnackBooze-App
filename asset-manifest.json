@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/bmghafoor/SnackBooze-App/static/css/main.9a15f846.css",
+    "main.js": "/bmghafoor/SnackBooze-App/static/js/main.14571c4d.js",
+    "index.html": "/bmghafoor/SnackBooze-App/index.html",
+    "main.9a15f846.css.map": "/bmghafoor/SnackBooze-App/static/css/main.9a15f846.css.map",
+    "main.14571c4d.js.map": "/bmghafoor/SnackBooze-App/static/js/main.14571c4d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9a15f846.css",
+    "static/js/main.14571c4d.js"
+  ]
+}
